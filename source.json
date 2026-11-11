@@ -1,0 +1,35 @@
+{
+  "name": "WorkoutApp",
+  "subtitle": "Plan sets, track reps, time rests",
+  "description": "A simple workout planner for creating gym sessions and following them in practice mode.",
+  "iconURL": "https://raw.githubusercontent.com/adrienpessu/WorkoutApp-AltStore/main/WorkoutApp-Icon-1024.png",
+  "tintColor": "#F28C28",
+  "apps": [
+    {
+      "name": "WorkoutApp",
+      "bundleIdentifier": "com.adrienpessu.WorkoutApp",
+      "developerName": "Adrien Pessu",
+      "subtitle": "Plan sets, track reps, time rests",
+      "localizedDescription": "Create workout sessions with exercises, sets, weights, repetitions, and rest times. Follow your plan in practice mode, check off completed sets, and run a rest countdown. Import and export workout plans as JSON. Workout data stays on your device. This Classic edition does not include the Live Activity widget or Apple Watch app.",
+      "iconURL": "https://raw.githubusercontent.com/adrienpessu/WorkoutApp-AltStore/main/WorkoutApp-Icon-1024.png",
+      "tintColor": "#F28C28",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-11",
+          "localizedDescription": "Initial AltStore Classic release.",
+          "downloadURL": "https://raw.githubusercontent.com/adrienpessu/WorkoutApp-AltStore/main/WorkoutApp-1.0.ipa",
+          "size": 317180,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
